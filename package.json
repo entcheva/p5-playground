@@ -1,0 +1,23 @@
+{
+  "name": "p5-playground",
+  "version": "1.0.0",
+  "description": "Fun with p5.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/entcheva/p5-playground.git"
+  },
+  "keywords": [
+    "p5.js",
+    "javascript"
+  ],
+  "author": "Christina Entcheva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/entcheva/p5-playground/issues"
+  },
+  "homepage": "https://github.com/entcheva/p5-playground#readme"
+}
